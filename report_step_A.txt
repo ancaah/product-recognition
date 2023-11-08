@@ -1,0 +1,40 @@
+Scene: e1:
+Product 0 - 1.0 instance found
+Product 1 - 1.0 instance found
+Product 11 - 0.0 instance found
+Product 19 - 0.0 instance found
+Product 24 - 0.0 instance found
+Product 25 - 0.0 instance found
+Product 26 - 0.0 instance found
+Scene: e2:
+Product 0 - 0.0 instance found
+Product 1 - 0.0 instance found
+Product 11 - 0.0 instance found
+Product 19 - 0.0 instance found
+Product 24 - 1.0 instance found
+Product 25 - 1.0 instance found
+Product 26 - 1.0 instance found
+Scene: e3:
+Product 0 - 1.0 instance found
+Product 1 - 1.0 instance found
+Product 11 - 0.0 instance found
+Product 19 - 0.0 instance found
+Product 24 - 0.0 instance found
+Product 25 - 0.0 instance found
+Product 26 - 0.0 instance found
+Scene: e4:
+Product 0 - 1.0 instance found
+Product 1 - 1.0 instance found
+Product 11 - 0.0 instance found
+Product 19 - 0.0 instance found
+Product 24 - 0.0 instance found
+Product 25 - 1.0 instance found
+Product 26 - 1.0 instance found
+Scene: e5:
+Product 0 - 0.0 instance found
+Product 1 - 0.0 instance found
+Product 11 - 0.0 instance found
+Product 19 - 1.0 instance found
+Product 24 - 0.0 instance found
+Product 25 - 1.0 instance found
+Product 26 - 0.0 instance found
