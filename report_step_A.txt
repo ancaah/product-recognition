@@ -1,40 +1,43 @@
-Scene: e1:
-Product 0 - 1.0 instance found
-Product 1 - 1.0 instance found
-Product 11 - 0.0 instance found
-Product 19 - 0.0 instance found
-Product 24 - 0.0 instance found
-Product 25 - 0.0 instance found
-Product 26 - 0.0 instance found
-Scene: e2:
-Product 0 - 0.0 instance found
-Product 1 - 0.0 instance found
-Product 11 - 0.0 instance found
-Product 19 - 0.0 instance found
-Product 24 - 1.0 instance found
-Product 25 - 1.0 instance found
-Product 26 - 1.0 instance found
-Scene: e3:
-Product 0 - 1.0 instance found
-Product 1 - 1.0 instance found
-Product 11 - 0.0 instance found
-Product 19 - 0.0 instance found
-Product 24 - 0.0 instance found
-Product 25 - 0.0 instance found
-Product 26 - 0.0 instance found
-Scene: e4:
-Product 0 - 1.0 instance found
-Product 1 - 1.0 instance found
-Product 11 - 0.0 instance found
-Product 19 - 0.0 instance found
-Product 24 - 0.0 instance found
-Product 25 - 1.0 instance found
-Product 26 - 1.0 instance found
-Scene: e5:
-Product 0 - 0.0 instance found
-Product 1 - 0.0 instance found
-Product 11 - 0.0 instance found
-Product 19 - 1.0 instance found
-Product 24 - 0.0 instance found
-Product 25 - 1.0 instance found
-Product 26 - 0.0 instance found
+Scene: scenes/e1.png:
+Product 0 - 1 instance found:
+	Instance 3 {position: (162, 214), width: 309px, height: 437px}
+Product 11 - 1 instance found:
+	Instance 3 {position: (443, 170), width: 305px, height: 392px}
+
+
+Scene: scenes/e2.png:
+Product 24 - 1 instance found:
+	Instance 3 {position: (167, 219), width: 334px, height: 490px}
+Product 25 - 1 instance found:
+	Instance 3 {position: (878, 233), width: 317px, height: 449px}
+Product 26 - 1 instance found:
+	Instance 3 {position: (538, 218), width: 330px, height: 490px}
+
+
+Scene: scenes/e3.png:
+Product 0 - 1 instance found:
+	Instance 3 {position: (171, 235), width: 323px, height: 444px}
+Product 1 - 1 instance found:
+	Instance 3 {position: (818, 193), width: 308px, height: 409px}
+Product 11 - 1 instance found:
+	Instance 3 {position: (474, 186), width: 303px, height: 395px}
+
+
+Scene: scenes/e4.png:
+Product 0 - 1 instance found:
+	Instance 3 {position: (158, 738), width: 323px, height: 444px}
+Product 11 - 1 instance found:
+	Instance 3 {position: (462, 692), width: 308px, height: 393px}
+Product 25 - 1 instance found:
+	Instance 3 {position: (555, 210), width: 326px, height: 451px}
+Product 26 - 1 instance found:
+	Instance 3 {position: (205, 195), width: 337px, height: 495px}
+
+
+Scene: scenes/e5.png:
+Product 19 - 1 instance found:
+	Instance 3 {position: (503, 190), width: 296px, height: 386px}
+Product 25 - 1 instance found:
+	Instance 3 {position: (161, 229), width: 323px, height: 448px}
+
+
