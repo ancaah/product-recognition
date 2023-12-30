@@ -1,0 +1,43 @@
+Scene: scenes/e1.png:, n° keypoints: 1346
+Product 0 - 1 instance found:
+	Instance 0 {position: (162, 213), width: 306px, height: 436px}
+Product 11 - 1 instance found:
+	Instance 0 {position: (444, 168), width: 302px, height: 388px}
+
+
+Scene: scenes/e2.png:, n° keypoints: 1760
+Product 24 - 1 instance found:
+	Instance 0 {position: (167, 219), width: 335px, height: 486px}
+Product 25 - 1 instance found:
+	Instance 0 {position: (878, 232), width: 315px, height: 444px}
+Product 26 - 1 instance found:
+	Instance 0 {position: (532, 239), width: 358px, height: 509px}
+
+
+Scene: scenes/e3.png:, n° keypoints: 2104
+Product 0 - 1 instance found:
+	Instance 0 {position: (170, 234), width: 320px, height: 442px}
+Product 1 - 1 instance found:
+	Instance 0 {position: (816, 194), width: 309px, height: 413px}
+Product 11 - 1 instance found:
+	Instance 0 {position: (474, 182), width: 293px, height: 396px}
+
+
+Scene: scenes/e4.png:, n° keypoints: 2690
+Product 0 - 1 instance found:
+	Instance 0 {position: (160, 738), width: 320px, height: 438px}
+Product 11 - 1 instance found:
+	Instance 0 {position: (465, 698), width: 310px, height: 388px}
+Product 25 - 1 instance found:
+	Instance 0 {position: (553, 209), width: 325px, height: 451px}
+Product 26 - 1 instance found:
+	Instance 0 {position: (206, 197), width: 343px, height: 486px}
+
+
+Scene: scenes/e5.png:, n° keypoints: 1265
+Product 19 - 1 instance found:
+	Instance 0 {position: (504, 190), width: 294px, height: 384px}
+Product 25 - 1 instance found:
+	Instance 0 {position: (160, 228), width: 322px, height: 446px}
+
+

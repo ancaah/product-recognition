@@ -1,0 +1,141 @@
+Scene: scenes/h1.jpg:, n° keypoints: 5567
+Product 0 - 1 instance found:
+	Instance 0 {position: (279, 309), width: 53px, height: 74px}
+Product 2 - 2 instance found:
+	Instance 0 {position: (105, 107), width: 56px, height: 88px}
+	Instance 1 {position: (36, 108), width: 60px, height: 90px}
+Product 3 - 2 instance found:
+	Instance 0 {position: (277, 405), width: 60px, height: 82px}
+	Instance 1 {position: (335, 409), width: 62px, height: 82px}
+Product 4 - 2 instance found:
+	Instance 0 {position: (229, 108), width: 70px, height: 100px}
+	Instance 1 {position: (166, 106), width: 71px, height: 97px}
+Product 11 - 1 instance found:
+	Instance 0 {position: (455, 314), width: 57px, height: 73px}
+Product 12 - 1 instance found:
+	Instance 0 {position: (164, 408), width: 48px, height: 65px}
+Product 14 - 1 instance found:
+	Instance 0 {position: (453, 412), width: 58px, height: 78px}
+Product 15 - 1 instance found:
+	Instance 0 {position: (511, 416), width: 54px, height: 65px}
+Product 18 - 1 instance found:
+	Instance 0 {position: (547, 216), width: 58px, height: 67px}
+Product 19 - 1 instance found:
+	Instance 0 {position: (559, 93), width: 57px, height: 73px}
+Product 22 - 2 instance found:
+	Instance 0 {position: (315, -7), width: 61px, height: 102px}
+	Instance 1 {position: (252, -4), width: 61px, height: 93px}
+
+
+Scene: scenes/h2.jpg:, n° keypoints: 5031
+Product 2 - 1 instance found:
+	Instance 0 {position: (78, 113), width: 38px, height: 59px}
+Product 4 - 1 instance found:
+	Instance 0 {position: (204, 131), width: 66px, height: 93px}
+Product 7 - 1 instance found:
+	Instance 0 {position: (405, 156), width: 126px, height: 94px}
+Product 14 - 1 instance found:
+	Instance 0 {position: (454, 433), width: 79px, height: 90px}
+Product 15 - 1 instance found:
+	Instance 0 {position: (514, 426), width: 49px, height: 58px}
+Product 18 - 1 instance found:
+	Instance 0 {position: (507, 233), width: 49px, height: 60px}
+Product 19 - 1 instance found:
+	Instance 0 {position: (533, 133), width: 56px, height: 69px}
+Product 22 - 2 instance found:
+	Instance 0 {position: (223, 16), width: 61px, height: 96px}
+	Instance 1 {position: (288, 18), width: 62px, height: 97px}
+
+
+Scene: scenes/h3.jpg:, n° keypoints: 5966
+Product 0 - 2 instance found:
+	Instance 0 {position: (404, 311), width: 53px, height: 71px}
+	Instance 1 {position: (346, 309), width: 52px, height: 70px}
+Product 2 - 1 instance found:
+	Instance 0 {position: (84, 385), width: 43px, height: 57px}
+Product 4 - 2 instance found:
+	Instance 0 {position: (301, 120), width: 65px, height: 90px}
+	Instance 1 {position: (244, 121), width: 62px, height: 88px}
+Product 7 - 2 instance found:
+	Instance 0 {position: (493, 114), width: 59px, height: 90px}
+	Instance 1 {position: (467, 234), width: 69px, height: 95px}
+Product 8 - 1 instance found:
+	Instance 0 {position: (533, 233), width: 69px, height: 89px}
+Product 11 - 1 instance found:
+	Instance 0 {position: (463, 314), width: 56px, height: 67px}
+Product 14 - 1 instance found:
+	Instance 0 {position: (555, 415), width: 62px, height: 79px}
+Product 15 - 1 instance found:
+	Instance 0 {position: (616, 418), width: 56px, height: 63px}
+Product 18 - 1 instance found:
+	Instance 0 {position: (610, 219), width: 58px, height: 67px}
+Product 19 - 1 instance found:
+	Instance 0 {position: (639, 112), width: 61px, height: 72px}
+Product 22 - 2 instance found:
+	Instance 0 {position: (322, 9), width: 60px, height: 92px}
+	Instance 1 {position: (384, 4), width: 61px, height: 97px}
+
+
+Scene: scenes/h4.jpg:, n° keypoints: 5507
+Product 0 - 1 instance found:
+	Instance 0 {position: (327, 337), width: 57px, height: 77px}
+Product 2 - 1 instance found:
+	Instance 0 {position: (84, 130), width: 63px, height: 94px}
+Product 3 - 2 instance found:
+	Instance 0 {position: (266, 444), width: 72px, height: 92px}
+	Instance 1 {position: (326, 436), width: 64px, height: 92px}
+Product 4 - 2 instance found:
+	Instance 0 {position: (216, 130), width: 69px, height: 104px}
+	Instance 1 {position: (151, 127), width: 73px, height: 97px}
+Product 7 - 1 instance found:
+	Instance 0 {position: (487, 131), width: 66px, height: 96px}
+Product 11 - 2 instance found:
+	Instance 0 {position: (388, 338), width: 59px, height: 73px}
+	Instance 1 {position: (447, 336), width: 56px, height: 75px}
+Product 12 - 1 instance found:
+	Instance 0 {position: (238, 606), width: 32px, height: 683px}
+Product 14 - 1 instance found:
+	Instance 0 {position: (388, 440), width: 58px, height: 81px}
+Product 15 - 1 instance found:
+	Instance 0 {position: (504, 439), width: 53px, height: 66px}
+Product 18 - 1 instance found:
+	Instance 0 {position: (538, 237), width: 58px, height: 69px}
+Product 19 - 1 instance found:
+	Instance 0 {position: (547, 115), width: 56px, height: 71px}
+Product 22 - 2 instance found:
+	Instance 0 {position: (305, 7), width: 65px, height: 103px}
+	Instance 1 {position: (237, 8), width: 66px, height: 98px}
+
+
+Scene: scenes/h5.jpg:, n° keypoints: 5993
+Product 0 - 2 instance found:
+	Instance 0 {position: (281, 336), width: 48px, height: 75px}
+	Instance 1 {position: (222, 340), width: 58px, height: 78px}
+Product 2 - 1 instance found:
+	Instance 0 {position: (30, 121), width: 46px, height: 67px}
+Product 3 - 2 instance found:
+	Instance 0 {position: (339, 443), width: 57px, height: 78px}
+	Instance 1 {position: (277, 461), width: 85px, height: 50px}
+Product 4 - 2 instance found:
+	Instance 0 {position: (165, 138), width: 73px, height: 100px}
+	Instance 1 {position: (99, 136), width: 69px, height: 101px}
+Product 5 - 1 instance found:
+	Instance 0 {position: (300, 127), width: 46px, height: 75px}
+Product 7 - 1 instance found:
+	Instance 0 {position: (413, 235), width: 36px, height: 78px}
+Product 11 - 2 instance found:
+	Instance 0 {position: (343, 343), width: 57px, height: 73px}
+	Instance 1 {position: (405, 345), width: 60px, height: 72px}
+Product 14 - 1 instance found:
+	Instance 0 {position: (434, 435), width: 62px, height: 81px}
+Product 15 - 1 instance found:
+	Instance 0 {position: (493, 437), width: 54px, height: 63px}
+Product 18 - 1 instance found:
+	Instance 0 {position: (488, 242), width: 51px, height: 55px}
+Product 19 - 1 instance found:
+	Instance 0 {position: (519, 136), width: 61px, height: 75px}
+Product 22 - 2 instance found:
+	Instance 0 {position: (185, 14), width: 66px, height: 101px}
+	Instance 1 {position: (252, 14), width: 66px, height: 102px}
+
+
